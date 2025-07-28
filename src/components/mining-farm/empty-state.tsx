@@ -21,7 +21,7 @@ export default function EmptyState() {
       >
         {/* Main miner image */}
         <Image
-          src="https://app.gomining.com/assets/images/nft/board/miners-empty.png"
+          src="/images/miners-empty.png"
           alt="Mining Rig"
           width={400}
           height={400}

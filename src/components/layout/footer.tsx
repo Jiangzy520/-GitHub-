@@ -25,7 +25,7 @@ export default function Footer() {
               <div className="flex space-x-4">
                 <Link href="https://play.google.com/store/apps/details?id=io.gmt.app.twa" target="_blank" rel="noopener noreferrer">
                   <Image
-                    src="https://app.gomining.com/assets/images/google-play.svg"
+                    src="/images/google-play.svg"
                     alt="Google Play"
                     width={120}
                     height={40}
@@ -33,7 +33,7 @@ export default function Footer() {
                 </Link>
                 <Link href="https://apps.apple.com/app/id1622100275" target="_blank" rel="noopener noreferrer">
                   <Image
-                    src="https://app.gomining.com/assets/images/app-store.svg"
+                    src="/images/app-store.svg"
                     alt="App Store"
                     width={120}
                     height={40}
